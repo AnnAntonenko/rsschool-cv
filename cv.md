@@ -3,7 +3,7 @@ ___
 # *Junior Frontend Developer*
 ___
 ## Contact info:
-* Phone: +48 515630818
+* Phone: +48 000000000
 * E-mail: tozhesa@mail.ru
 * [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%BD%D0%B0-%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE-b039aa215/)
 ___
