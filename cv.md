@@ -50,26 +50,22 @@ ___
     </html> 
 ___
 ## Education, training, certificates:
-- [x] IBA Training Center.”Python Test Automation”. 2019
+* IBA Training Center.”Python Test Automation”. 2019
 <img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2019/12/Python-Testing-Frameworks.png" width="300">
-- [x] IBA Training Center. ”Java Conference”. 2019
-- [x] IBA Training Center. ”Test automation using Selenium Webdriver” training course. 2018
-- [x] IBA Training Center. ”WM666 IBM Integration Bus V10. Application Development 1” training course. 2017
-- [x] Belarusian State University, the Faculty of Applied Mathematics and Informatics
-- [x] IBA Training Center. “ The basics of using IBM SPSS Modeler” training course. 2015
-- [x] IBA Training Center. ”The basics of DB2 for z/OS. Application Development” training course. 2015
-- [x] IBA Training Center. ”Multiplatform Programming” training course. 2015
-- [x] IBA Training Center. ”Basic skills in OS Linux” training course. 2015
-- [x] IBA Training Center. “ Business analysis in IBM Cognos BI” training course. 2014
-- [x] Center of Information Resources and Communications. “Programming in C/C++. Part 2. Assembler” training course. 2013
-- [x] Center of Information Resources and Communications. “Programming in C/C++. Part 1” training course. 2012
+* IBA Training Center. ”Java Conference”. 2019
+* IBA Training Center. ”Test automation using Selenium Webdriver” training course. 2018
+* IBA Training Center. ”WM666 IBM Integration Bus V10. Application Development 1” training course. 2017
+* Belarusian State University, the Faculty of Applied Mathematics and Informatics
+* IBA Training Center. “ The basics of using IBM SPSS Modeler” training course. 2015
+* IBA Training Center. ”The basics of DB2 for z/OS. Application Development” training course. 2015
+* IBA Training Center. ”Multiplatform Programming” training course. 2015
+* IBA Training Center. ”Basic skills in OS Linux” training course. 2015
+* IBA Training Center. “ Business analysis in IBM Cognos BI” training course. 2014
+* Center of Information Resources and Communications. “Programming in C/C++. Part 2. Assembler” training course. 2013
+* Center of Information Resources and Communications. “Programming in C/C++. Part 1” training course. 2012
 ___
 ## Languages:
-Language | Level
------------|:-------: 
-English|Upper-intermediate 
-German |Intermediate
-Russian | Native
-Polish | Beginner 
-
-
+English - Upper-intermediate 
+German - Intermediate
+Russian - Native
+Polish - Beginner 
