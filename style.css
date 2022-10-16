@@ -65,8 +65,7 @@ h2 {
     padding: 15px 0px;
  }
 
-pre 
- {
+pre {
    background-color: #92a8d1;
    border-radius: 10%;
  }
@@ -103,6 +102,7 @@ pre
    font-family: papyrus;
    font-size: 100%;
  }
+ 
  .date_bottom {
     width: 200px;
     height: 70px;
